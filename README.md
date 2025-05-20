@@ -1,1 +1,1 @@
-# Palmprint-Image-Generation
+# Palmprint Image Generation using GAN
