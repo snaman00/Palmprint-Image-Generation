@@ -54,7 +54,7 @@ pip install tensorflow==2.19.0 numpy opencv-python matplotlib tqdm scikit-image
 
 1. Clone the Repository :
 ```bash
-git clone https://github.com/your-username/palmprint-gan.git
+git clone https://github.com/snaman00/Palmprint-Image-Generation.git
 cd palmprint-gan
 ```
 2. Create a Virtual Environment:
