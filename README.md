@@ -31,14 +31,14 @@ The entire pipeline, from data preprocessing to GAN training and potential deplo
 ## Technologies Used
 - Programming Language: Python
 - Deep Learning Frameworks:
-- - TensorFlow
+  - TensorFlow
   - Keras (as part of TensorFlow 2.x)
 - Numerical Computing: NumPy
 - Image Processing:
-- - OpenCV (cv2)
+  - OpenCV (cv2)
   - keras.preprocessing.image (for img_to_array)
 - Data Handling & Utilities:
-- - os (for file system operations)
+  - os (for file system operations)
   - re (for regular expressions, used in alphanumeric sorting)
   - tqdm (for progress bars during data loading)
 - Data Visualization: Matplotlib
